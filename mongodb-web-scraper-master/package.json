@@ -1,0 +1,21 @@
+{
+  "name": "Mongoose_Cheerio_",
+  "version": "1.0.0",
+  "description": "A MongoDB webapp that will scrape news data while allowing users to comment about it.",
+  "main": "server.js",
+  "scripts": {
+    "test": "?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okaif90/Mongoose_Cheerio"
+  },
+  "author": "okaif90",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.7.1" }
+}
